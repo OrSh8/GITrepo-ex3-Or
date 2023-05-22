@@ -1,7 +1,7 @@
-public class yourname {
+public class or {
     public static void main(String[] args) {
         for (int i = 0; i < 5; i++) {
-            System.out.println("Or");
+            System.out.println("Chicka Chicka Slim Shady");
         }
     }
 }
